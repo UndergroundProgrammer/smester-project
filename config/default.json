@@ -1,4 +1,0 @@
-{
-  "db": "mongodb://localhost/smesterProject",
-  "jwtPrivateKey":"a123cb"
-}
