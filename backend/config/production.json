@@ -1,5 +1,5 @@
 {
-  "db": "mongodb://localhost/smesterProject",
+  "db": "mongodb+srv://mubashar786:Ma@123321@semesterproject.qwaqn.mongodb.net/semesterProject?retryWrites=true&w=majority",
     "jwtPrivateKey":"a123cb"
 
 }
